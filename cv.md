@@ -161,3 +161,17 @@ ___
 + __HTML+CSS+JS:__ *My first solo project. Cv for my girl.* - __[Netlify](https://elaborate-florentine-1efb1e.netlify.app/ "my-solo-project")__
 
 ___
+
+### Education:
++ __Сollege at the Belarusian-Russian University:__ *01.09.2010 - 21.03.2014 - "Industrial and civil construction".* "__Technic-Builder__."
++ __Belarusian-Russian University:__ *01.09.2014 - 25.01.2019 - "Industrial and civil construction".* "__Civil-Engineer__."
++ __GoIT Courses:__ *intensive Frontend course - start 22 end 30 March 2022*
++ __RS School:__ *«JavaScript/Front-end. Stage 0» - start 01.06.2022*
+
+___
+
+### Language:
++ __English__ __[EF SET](https://www.efset.org/ru/ "linkEnglish")__ - _Beginner_
++ __Polish__ - _B1_
++ __Russian__ - _Native_
++ __Belarusian and Ukraine__ - _Free understanding and read_
