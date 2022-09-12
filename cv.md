@@ -170,7 +170,7 @@ ___
 
 ___
 
-### Language:
+### Languages:
 + __English__ __[EF SET](https://www.efset.org/ru/ "linkEnglish")__ - _Beginner_
 + __Polish__ - _B1_
 + __Russian__ - _Native_
